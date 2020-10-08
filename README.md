@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-"# super-over-sample-repo" 
-=======
+
 ![Image description](https://i1.faceprep.in/ProGrad/face-logo-resized.png)
 
 # ProGrad Lab | HTML - ProGrad Premier League Superover
@@ -247,4 +245,4 @@ In this exercise, you've built the complete structure of the super over game pag
 This concludes the HTML module. We are proud of you!
 
 Happy Coding ProGrad ❤️!
->>>>>>> cf8ee7f89bb5ea766687b816c78a0e34cbf92b03
+
