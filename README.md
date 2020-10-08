@@ -55,7 +55,8 @@ It might seem like a joke, but this is our goal in this iteration:
 ![](https://i1.faceprep.in/ProGrad/i-3.png)
 ![](https://i1.faceprep.in/ProGrad/i-4.png)
 ![](https://i1.faceprep.in/ProGrad/i-5.png)
-
+![](https://i1.faceprep.in/ProGrad/i-6.png)
+![](https://i1.faceprep.in/ProGrad/i-7.png)
 <br>
 
 The very first step is deciding **how to structure the page and picking the correct _semantic_ tags**. In general, choosing the right tags will make your job easier in the next step when the time comes to do some styling.
@@ -146,7 +147,10 @@ You can see the final result on the gif at the beginning of this exercise.
 ```
 
 #### HTML 3 | `Section - Fixtures`
+Your task is to create a fixture for the superover. Your output will be similar to this.
 
+![](https://i1.faceprep.in/ProGrad/i-6.png)
+![](https://i1.faceprep.in/ProGrad/i-7.png)
 
 ```
     <div>
