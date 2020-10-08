@@ -34,7 +34,7 @@ Our goal is to get as close as possible to this:
 ![](https://i1.faceprep.in/ProGrad/ipl-2.png)
 **GAME PAGE**
 ![](https://i1.faceprep.in/ProGrad/ipl-3.png)
-
+![](https://i1.faceprep.in/ProGrad/ipl-4.png)
 
 We will divide our work into two parts:
 
