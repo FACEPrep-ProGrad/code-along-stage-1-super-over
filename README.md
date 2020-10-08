@@ -36,7 +36,7 @@ Our goal is to get as close as possible to this:
 **GAME PAGE**
 ![](https://i1.faceprep.in/ProGrad/ipl-3.png)
 
-
+Link to the Game site: !(https://faceprep-prograd.github.io/prograd-premier-league-super-over/)
 We will divide our work into two parts:
 
 - part I - create a webpage with no styles, just add HTML and
