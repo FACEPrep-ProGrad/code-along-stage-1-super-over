@@ -134,6 +134,86 @@ You can see the final result on the gif at the beginning of this exercise.
    </header>
 ```
 
+#### HTML 3 | `Section - Fixtures`
+
+
+```
+    <div>
+        <a name="schedule"></a>
+        <div>
+            <div>
+                <div>
+                    <img src="./assets/csk.png" alt="CSK">
+                </div>
+                <h3>VS</h3>
+                <div>
+                    <img src="./assets/KKR.png" alt="KKR">
+                </div>
+            </div>
+            <div>
+                <div>
+                    <img src="./assets/Delhi.png" alt="DD">
+                </div>
+                <h3>VS</h3>
+                <div>
+                    <img src="./assets/KXI.png" alt="KXI">
+                </div>
+            </div>
+            <div>
+                <div>
+                    <img src="./assets/RCB.png" alt="RCB">
+                </div>
+                <h3>VS</h3>
+                <div>
+                    <img src="./assets/RR.png" alt="RCB">
+                </div>
+            </div>
+            <div>
+                <div>
+                    <img src="./assets/SRH.png" alt="SHR">
+                </div>
+                <h3>VS</h3>
+                <div>
+                    <img src="./assets/MI.png" alt="MI">
+                </div>
+            </div>
+        </div>
+        <div>
+            <div>
+                <div>
+                    <img src="./assets/csk.png" alt="CSK">
+                </div>
+                <h3>VS</h3>
+                <div>
+                    <img src="./assets/KXI.png" alt="KXI">
+                </div>
+            </div>
+            <div>
+                <div>
+                    <img src="./assets/RCB.png" alt="RCB">
+                </div>
+                <h3>VS</h3>
+                <div>
+                    <img src="./assets/MI.png" alt="MI">
+                </div>
+            </div>
+        </div>
+        <div>
+            <div>
+                <div>
+                    <img src="./assets/csk.png" alt="CSK">
+                </div>
+                <h3>VS</h3>
+                <div>
+                    <img src="./assets/MI.png" alt="MI">
+                </div>
+            </div>
+        </div>
+    </div>
+    </section>
+```
+
+
 
 ## Submission
 
