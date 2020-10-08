@@ -12,8 +12,8 @@ In this exercise, the goal is to apply as many as possible of the concepts you'v
 
 ## Getting started
 
-1. [Fork](https://github.com/FACEPrep-ProGrad/project-builder-html-css-npm) this repo
-2. [Clone](https://github.com/FACEPrep-ProGrad/project-builder-html-css-npm) this repo
+1. [Fork](https://github.com/FACEPrep-ProGrad/code-along-stage-1-super-over.git) this repo
+2. [Clone](https://github.com/FACEPrep-ProGrad/code-along-stage-1-super-over.git) this repo
 
 Whenever you create a first significant change, you should make your first commit.
 
@@ -32,9 +32,10 @@ Our goal is to get as close as possible to this:
 **LANDING PAGE**
 ![](https://i1.faceprep.in/ProGrad/ipl1.png)
 ![](https://i1.faceprep.in/ProGrad/ipl-2.png)
+![](https://i1.faceprep.in/ProGrad/ipl-4.png)
 **GAME PAGE**
 ![](https://i1.faceprep.in/ProGrad/ipl-3.png)
-![](https://i1.faceprep.in/ProGrad/ipl-4.png)
+
 
 We will divide our work into two parts:
 
