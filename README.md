@@ -43,7 +43,7 @@ We will divide our work into two parts:
 
 So let's get started!
 
-**The assets we provided contain the `index.html` file, as well as the `assets` folder with all the required images to successfully finish the exercise.**
+**The assets we provided contain all the required images to successfully finish the exercise.**
 
 ### Part I - pure HTML (no styles applied)
 
