@@ -1,7 +1,7 @@
 
 ![Image description](https://i1.faceprep.in/ProGrad/prograd-logo.png)
 
-# ProGrad Lab | HTML - ProGrad Premier League Superover
+# ProGrad Lab | HTML - Super Over Stage - I
 
 ## Learning Goals
 
