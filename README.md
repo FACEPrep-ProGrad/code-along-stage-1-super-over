@@ -30,7 +30,7 @@ In this exercise, you will build the landing page of the **Super Over**. Super o
 
 Our goal is to get as close as possible to this:
 **LANDING PAGE**
-![](https://i1.faceprep.in/ProGrad/ipl-1.png)
+![](https://i1.faceprep.in/ProGrad/ipl1.png)
 ![](https://i1.faceprep.in/ProGrad/ipl-2.png)
 **GAME PAGE**
 ![](https://i1.faceprep.in/ProGrad/ipl-3.png)
