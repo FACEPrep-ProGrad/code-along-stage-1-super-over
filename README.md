@@ -49,8 +49,12 @@ So let's get started!
 ### Part I - pure HTML (no styles applied)
 
 It might seem like a joke, but this is our goal in this iteration:
-![1]()
 
+![](https://i1.faceprep.in/ProGrad/i-1.png)
+![](https://i1.faceprep.in/ProGrad/i-2.png)
+![](https://i1.faceprep.in/ProGrad/i-3.png)
+![](https://i1.faceprep.in/ProGrad/i-4.png)
+![](https://i1.faceprep.in/ProGrad/i-5.png)
 
 <br>
 
@@ -58,14 +62,13 @@ The very first step is deciding **how to structure the page and picking the corr
 
 Our recommendation is to try to keep it as simple as possible. Try to identify the different sections, and add `id`'s or `classes` to each `<div>`, `<section>`, `<ul>`, or `<header>` block elements to identify these elements. Here is suggested guideline but you might have something on your mind that is different from this - bring it up.
 
-![]()
 
 #### HTML 1 | `<nav>`
 
 Your task in this iteration will be to create the `nav` and `header`, which are the first two elements of the page. As you can see on the image above, the first element inside the body is `nav`:
 
 
-![]()
+![](https://i1.faceprep.in/ProGrad/i-1.png)
 
 However, remember, on the image above styles are already applied so our final result won't be quite the same.
 
@@ -100,6 +103,12 @@ You're ready to move to the next iteration. :raised_hands:
 Take a look at the image with market HTML elements on it one more time, and you can see we have two sections below the header. Create `section` tags and give each of them `id`s so you can identify them quickly.
 
 The content for each of these sections is already in the _index.html_ but you have to organize it properly making sure there are headings, paragraphs, divs, etc.
+
+
+![](https://i1.faceprep.in/ProGrad/i-2.png)
+![](https://i1.faceprep.in/ProGrad/i-3.png)
+![](https://i1.faceprep.in/ProGrad/i-4.png)
+![](https://i1.faceprep.in/ProGrad/i-5.png)
 
 **All images can be found in your `assets` folder!**
 
