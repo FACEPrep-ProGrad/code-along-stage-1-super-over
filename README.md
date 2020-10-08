@@ -28,9 +28,11 @@ In the end of this document, you will find guidelines on how to submit the exerc
 In this exercise, you will build the landing page of the **Super Over**. Super over is a super cool cricket game, where each team compete with each other in one over combat. Each team will get to play 6 balls and the team which scores maximum runs wins the game. You already have all the assets for this version in the images folder as well as the necessary text in the `index.html`.
 
 Our goal is to get as close as possible to this:
-
-![]()
-![]()
+**LANDING PAGE**
+![](https://i1.faceprep.in/ProGrad/ipl-1.png)
+![](https://i1.faceprep.in/ProGrad/ipl-2.png)
+**GAME PAGE**
+![](https://i1.faceprep.in/ProGrad/ipl-3.png)
 
 
 
