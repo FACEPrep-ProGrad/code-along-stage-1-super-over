@@ -39,7 +39,6 @@ Although it doesn't look too complicated, we will have to apply quite a few styl
 We will divide our work into two parts:
 
 - part I - create a webpage with no styles, just add HTML and
-- part II - add styles and make it perfect. 🎨
 
 So let's get started!
 
@@ -94,9 +93,9 @@ When done, you should get something similar to this:
 
 You're ready to move to the next iteration. :raised_hands:
 
-#### HTML 2 | Header
+#### HTML 2 | `Header`
 
-Take a look at the image with market HTML elements on it one more time, and you can see we have three sections below the header. Create `section` tags and give each of them `id`s so you can identify them quickly.
+Take a look at the image with market HTML elements on it one more time, and you can see we have two sections below the header. Create `section` tags and give each of them `id`s so you can identify them quickly.
 
 The content for each of these sections is already in the _index.html_ but you have to organize it properly making sure there are headings, paragraphs, divs, etc.
 
@@ -104,7 +103,36 @@ The content for each of these sections is already in the _index.html_ but you ha
 
 You can see the final result on the gif at the beginning of this exercise.
 
-The time has come! Let's add some styles and make it pretty! :nail_care:
+```
+   <header id="#teams">
+       <div>
+        <article>
+            <img src="./assets/csk.png" alt=""/>
+            <h4> Chennai Super Kings</h4>
+        </article>
+        <article>
+            <img src="./assets/MI.png" alt=""/>
+            <h4> Mumbai Indians</h4>
+        </article>
+        <article>
+            <img src="./assets/Delhi.png" alt=""/>
+            <h4> Delhi Daredevils</h4>
+        </article>
+        <article>
+            <img src="./assets/KKR.png" alt=""/>
+            <h4> Delhi Daredevils</h4>
+        </article>
+        <article>
+            <img src="./assets/KXI.png" alt=""/>
+            <h4> Delhi Daredevils</h4>
+        </article>
+        <article>
+            <img src="./assets/RCB.png" alt=""/>
+            <h4> Delhi Daredevils</h4>
+        </article>
+       </div>
+   </header>
+```
 
 
 ## Submission
