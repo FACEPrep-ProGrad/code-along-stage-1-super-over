@@ -98,10 +98,9 @@ You're ready to move to the next iteration. :raised_hands:
 
 #### HTML 2 | `Header`
 
-Take a look at the image with market HTML elements on it one more time, and you can see we have two sections below the nav. Create `section` tags and give each of them `id`s so you can identify them quickly.
+Take a look at the image with HTML elements on it one more time, and you can see we have two sections below the nav. Create `header` and `section` tags and give each of them `id`s so you can identify them quickly.
 
 The content for each of these sections is already in the _index.html_ but you have to organize it properly making sure there are headings, paragraphs, divs, etc.
-
 
 ![](https://i1.faceprep.in/ProGrad/i-2.png)
 ![](https://i1.faceprep.in/ProGrad/i-3.png)
@@ -110,7 +109,7 @@ The content for each of these sections is already in the _index.html_ but you ha
 
 **All images can be found in your `assets` folder!**
 
-You can see the final result on the gif at the beginning of this exercise.
+You can see the final result on the image at the beginning of this exercise.
 
 ```
    <header id="#teams">
