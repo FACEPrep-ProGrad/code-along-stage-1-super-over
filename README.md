@@ -26,7 +26,7 @@ In the end of this document, you will find guidelines on how to submit the exerc
 
 ### Introduction
 
-In this exercise, you will build the landing page of the **Super Over**. Super over is a super cool cricket game, where each team compete with each other in one over combat. Each team will get to play 6 balls and the team which scores maximum runs wins the game. You already have all the assets for this version in the images folder as well as the necessary text in the `index.html`.
+In this exercise, you will build the landing page of the **Super Over**. Super over is a super cool cricket game, where each team compete with each other in one over combat. Each team will get to play 6 balls and the team which scores maximum runs wins the game. You already have all the assets for this version in the assets folder as well as the necessary text in the `index.html`.
 
 Our goal is to get as close as possible to this:
 **LANDING PAGE**
@@ -36,12 +36,10 @@ Our goal is to get as close as possible to this:
 ![](https://i1.faceprep.in/ProGrad/ipl-3.png)
 
 
-
-Although it doesn't look too complicated, we will have to apply quite a few styles on our web page: set a background color on different elements, set a font weight (bold, normal), and position elements using our newly acquired skills in flexbox.
-
 We will divide our work into two parts:
 
 - part I - create a webpage with no styles, just add HTML and
+- part II - we will apply styles(next session)
 
 So let's get started!
 
@@ -60,7 +58,7 @@ It might seem like a joke, but this is our goal in this iteration:
 ![](https://i1.faceprep.in/ProGrad/i-7.png)
 <br>
 
-The very first step is deciding **how to structure the page and picking the correct _semantic_ tags**. In general, choosing the right tags will make your job easier in the next step when the time comes to do some styling.
+The very first step is deciding **how to structure the page and picking the correct _semantic_ tags**. In general, choosing the right tags will make your job easier.
 
 Our recommendation is to try to keep it as simple as possible. Try to identify the different sections, and add `id`'s or `classes` to each `<div>`, `<section>`, `<ul>`, or `<header>` block elements to identify these elements. Here is suggested guideline but you might have something on your mind that is different from this - bring it up.
 
@@ -68,9 +66,6 @@ Our recommendation is to try to keep it as simple as possible. Try to identify t
 #### HTML 1 | `<nav>`
 
 Your task in this iteration will be to create the `nav` and `header`, which are the first two elements of the page. As you can see on the image above, the first element inside the body is `nav`:
-
-
-![](https://i1.faceprep.in/ProGrad/i-1.png)
 
 However, remember, on the image above styles are already applied so our final result won't be quite the same.
 
@@ -96,13 +91,14 @@ We could try to represent this part of the website with the following:
 ```
 
 When done, you should get something similar to this:
-![]()
+
+![](https://i1.faceprep.in/ProGrad/i-1.png)
 
 You're ready to move to the next iteration. :raised_hands:
 
 #### HTML 2 | `Header`
 
-Take a look at the image with market HTML elements on it one more time, and you can see we have two sections below the header. Create `section` tags and give each of them `id`s so you can identify them quickly.
+Take a look at the image with market HTML elements on it one more time, and you can see we have two sections below the nav. Create `section` tags and give each of them `id`s so you can identify them quickly.
 
 The content for each of these sections is already in the _index.html_ but you have to organize it properly making sure there are headings, paragraphs, divs, etc.
 
