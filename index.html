@@ -4,127 +4,137 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ProGrad Premier League</title>
-    <!-- <link rel="stylesheet" href="style.css"> -->
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <!-- semantic web tags -->
     <!-- Navigation part is done -->
    <nav>
 <ul>
-    <li><img src="./assets/prograd-logo.png" alt=""></li>
+    <li class="logo-image">
+        <img class="logo" src="./assets/prograd-logo.png" alt=""></li>
     <li>
         <ul>
-            <li><a href="#">TEAMS</a> </li>
-            <li><a href="#"> FIXTURES</a></li>
-            <li><a href="#">GAME PLAY</a> </li>
-            <li><a href="#">POINTS TABLE</a> </li>
+            <li><a href="#teams" class="nav-link">TEAMS</a> </li>
+            <li><a href="#fixtures" class="nav-link"> FIXTURES</a></li>
+            <li><a href="./game.html" class="nav-link">GAME PLAY</a> </li>
+            <li><a href="#" class="nav-link">POINTS TABLE</a> </li>
         </ul>
     </li>
 </ul>
    </nav>
-   <header id="#teams">
+   <header id="teams">
        <div>
         <article>
-            <img src="./assets/csk.png" alt=""/>
+            <img src="./assets/csk.png" class="team-logo" alt=""/>
             <h4> Chennai Super Kings</h4>
         </article>
         <article>
-            <img src="./assets/MI.png" alt=""/>
+            <img src="./assets/MI.png" class="team-logo" alt=""/>
             <h4> Mumbai Indians</h4>
         </article>
         <article>
-            <img src="./assets/Delhi.png" alt=""/>
+            <img src="./assets/Delhi.png" class="team-logo" alt=""/>
             <h4> Delhi Daredevils</h4>
         </article>
         <article>
-            <img src="./assets/KKR.png" alt=""/>
+            <img src="./assets/KKR.png" class="team-logo" alt=""/>
             <h4> Delhi Daredevils</h4>
         </article>
         <article>
-            <img src="./assets/KXI.png" alt=""/>
+            <img src="./assets/KXI.png" class="team-logo" alt=""/>
             <h4> Delhi Daredevils</h4>
         </article>
         <article>
-            <img src="./assets/RCB.png" alt=""/>
+            <img src="./assets/RCB.png" class="team-logo" alt=""/>
             <h4> Delhi Daredevils</h4>
         </article>
        </div>
    </header>
-   <section>
-   <div>
+   <section id="fixtures">
+   <div class="flex container">
     <a name="schedule"></a>
-    <div>
-        <div>
-            <div>
-                <img src="./assets/csk.png" alt="CSK">
+    <div class="flex qualifier">
+        <div class="flex set">
+            <div class="card">
+                <img class="img" src="./assets/csk.png" alt="CSK">
             </div>
             <h3>VS</h3>
-            <div>
-                <img src="./assets/KKR.png" alt="KKR">
+            <div class="card">
+                <img class="img" src="./assets/KKR.png" alt="KKR">
             </div>
         </div>
-        <div>
-            <div>
-                <img src="./assets/Delhi.png" alt="DD">
+        <div class="flex set">
+            <div class="card">
+                <img class="img" src="./assets/Delhi.png" alt="CSK">
             </div>
             <h3>VS</h3>
-            <div>
-                <img src="./assets/KXI.png" alt="KXI">
+            <div class="card">
+                <img class="img" src="./assets/KXI.png" alt="KKR">
             </div>
         </div>
-        <div>
-            <div>
-                <img src="./assets/RCB.png" alt="RCB">
+        <div class="flex set">
+            <div class="card">
+                <img class="img" src="./assets/Delhi.png" alt="DD">
             </div>
             <h3>VS</h3>
-            <div>
-                <img src="./assets/RR.png" alt="RCB">
+            <div class="card">
+                <img class="img" src="./assets/KXI.png" alt="KXI">
             </div>
         </div>
-        <div>
-            <div>
-                <img src="./assets/SRH.png" alt="SHR">
+        <div class="flex set">
+            <div class="card">
+                <img class="img" src="./assets/RCB.png" alt="RCB">
             </div>
             <h3>VS</h3>
-            <div>
-                <img src="./assets/MI.png" alt="MI">
+            <div class="card">
+                <img class="img" src="./assets/RR.png" alt="RCB">
             </div>
-        </div>
-    </div>
-    <div>
-        <div>
-            <div>
-                <img src="./assets/csk.png" alt="CSK">
+        </div> 
+        <div  class="flex set">
+            <div class="card">
+                <img class="img" src="./assets/SRH.png" alt="SHR">
             </div>
             <h3>VS</h3>
-            <div>
-                <img src="./assets/KXI.png" alt="KXI">
-            </div>
-        </div>
-        <div>
-            <div>
-                <img src="./assets/RCB.png" alt="RCB">
-            </div>
-            <h3>VS</h3>
-            <div>
-                <img src="./assets/MI.png" alt="MI">
+            <div class="card">
+                <img class="img" src="./assets/MI.png" alt="MI">
             </div>
         </div>
     </div>
-    <div>
-        <div>
-            <div>
-                <img src="./assets/csk.png" alt="CSK">
+    <div class="flex semifinal">
+        <div class="flex set">
+            <div class="card">
+                <img class="img" src="./assets/csk.png" alt="CSK">
             </div>
             <h3>VS</h3>
-            <div>
-                <img src="./assets/MI.png" alt="MI">
+            <div class="card">
+                <img class="img" src="./assets/KXI.png" alt="KXI">
+            </div>
+        </div>
+        <div class="flex set">
+            <div class="card">
+                <img class="img" src="./assets/RCB.png" alt="RCB">
+            </div>
+            <h3>VS</h3>
+            <div class="card">
+                <img class="img" src="./assets/MI.png" alt="MI">
+            </div>
+        </div>
+    </div>
+    <div class=flex-final>
+        <div class="flex set">
+            <div class="card">
+                <img class="img" src="./assets/csk.png" alt="CSK">
+            </div>
+            <h3>VS</h3>
+            <div class="card">
+                <img class="img" src="./assets/MI.png" alt="MI">
             </div>
         </div>
     </div>
 </div>
 </section>
-   <footer>
+   <footer >
        Happy Coding ProGrads
    </footer>
 </body>
